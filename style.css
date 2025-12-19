@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background-image:url(img/котик.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
